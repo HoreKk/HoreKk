@@ -49,6 +49,8 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png" height="80" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/andregans/code_logotype/main/React%20JS%20Logotype.png" height="80" alt="React" title="React" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Next.js/png/Next.js.png" height="80" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/png/Node.js.png" height="80" alt="Node.js" title="Node.js" />
@@ -59,19 +61,21 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 ### Styling & Infrastructure
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/png/GitHub.png" height="80" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/andregans/code_logotype/main/Github%20Logotype.png" height="80" alt="GitHub" title="GitHub" />
 </p>
 
 ### Ecosystem & Tooling
 
 <p align="center">
-  <img alt="Vite" src="https://raw.githubusercontent.com/andregans/code_logotype/refs/heads/main/Vite.png" height="50" />
+  <img alt="Vite" src="https://raw.githubusercontent.com/andregans/code_logotype/refs/heads/main/Vite.png" height="65" />
   &nbsp;
-  <img alt="Docker" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogoShadowed.png" height="50" />
+  <img alt="Docker" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogoShadowed.png" height="65" />
   &nbsp;
-  <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="50" />
+  <img alt="Prisma" src="https://raw.githubusercontent.com/andregans/code_logotype/refs/heads/main/Prisma%20Logotype.png" height="65" />
   &nbsp;
-  <img alt="oRPC" src="https://orpc.dev/logo.webp" height="50" />
+  <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="65" />
+  &nbsp;
+  <img alt="oRPC" src="https://orpc.dev/logo.webp" height="65" />
 </p>
 
 ---
