@@ -35,7 +35,7 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 |---|---|
 | **Concept** | Social logging platform for esport, inspired by Letterboxd |
 | **MVP scope** | League of Legends competitive matches & community reviews |
-| **Stack** | Next.js · Hono · Drizzle · tRPC · TanStack · Turborepo |
+| **Stack** | Next.js · Hono · Drizzle · oRPC · TanStack · Turborepo |
 | **Status** | 🚧 In active development |
 
 ---
