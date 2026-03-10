@@ -65,7 +65,9 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 ### Ecosystem & Tooling
 
 <p align="center">
-  <img alt="Vite" src="https://vitejs.fr/logo-with-shadow.png" height="50" />
+  <img alt="Vite" src="https://raw.githubusercontent.com/andregans/code_logotype/refs/heads/main/Vite.png" height="50" />
+  &nbsp;
+  <img alt="Docker" src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogoShadowed.png" height="50" />
   &nbsp;
   <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="50" />
   &nbsp;
