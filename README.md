@@ -65,9 +65,9 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 ### Ecosystem & Tooling
 
 <p align="center">
-  <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="50" />
+  <img alt="Vite" src="https://vitejs.fr/logo-with-shadow.png" height="50" />
   &nbsp;
-  <img alt="Turborepo" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" height="50" />
+  <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="50" />
   &nbsp;
   <img alt="oRPC" src="https://orpc.dev/logo.webp" height="50" />
 </p>
