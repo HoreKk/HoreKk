@@ -77,8 +77,8 @@ Built by a fan, for fans. Because the esport scene deserves better tooling than 
 ## Beyond the Code
 
 - 🏀 Die-hard **San Antonio Spurs** fan — Wemby is real and the era has started
-- 🎮 **T1** on League (Faker is the unkillable demon king 🐐) and a close follower of the **CS** competitive scene
-- 📚 Currently waiting for Togashi to finish **Hunter × Hunter**. Patiently. It's fine. I'm fine.
+- 🎮 **T1** on League (Faker the GOOAT 🐐) and a close follower of the **CS** competitive scene
+- 📚 Big 3 *One Piece, Hunter x Hunter, and Dragon Ball*.
 
 ---
 
