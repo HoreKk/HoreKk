@@ -1,47 +1,87 @@
-# Hi, I'm Antoine Lelong 👋
+<div align="center">
+
+# Antoine Lelong
+
+**Senior Fullstack & Data Developer · Numéricité**
+
+*Building product-grade web apps and data pipelines for 5+ years*
+
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/HoreK0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-lelong-510027199)
+
+</div>
+
+---
+
+## About
+
+I'm a **Senior Fullstack & Data Developer** at [Numéricité](https://www.numericite.eu), where I've spent the last 5 years building and scaling web applications from frontend to data pipelines.
+
+My journey started on the **frontend** with React, grew into **fullstack** development with Node and Python backends, and has now expanded into **data engineering** — integrating ELK Stack, Metabase, and modern data visualization workflows.
+
+Beyond writing code, I'm invested in team growth through **peer programming** and thorough **code reviews**. I believe great software is built by great teams.
+
+---
+
+## 🔭 Featured Project — Postgame
+
+> *Letterboxd, but for esport. Rate the plays, not just the players.*
+
+**[post-game.xyz](https://www.post-game.xyz)** — A community platform for **League of Legends** fans to log, rate, and discuss competitive matches and performances. Think match diaries, pro game breakdowns, and community power rankings — all in one place.
+
+Built by a fan, for fans. Because the esport scene deserves better tooling than a spreadsheet and a Discord thread.
+
+| | |
+|---|---|
+| **Concept** | Social logging platform for esport, inspired by Letterboxd |
+| **MVP scope** | League of Legends competitive matches & community reviews |
+| **Stack** | Next.js · Hono · Drizzle · tRPC · TanStack · Turborepo |
+| **Status** | 🚧 In active development |
+
+---
+
+## 🛠 Tech Stack
+
+*The logos that bring joy every time the build passes.*
+
+### Languages & Frameworks
 
 <p align="center">
-  <a href="https://twitter.com/HoreK0">X</a> •
-  <a href="https://www.linkedin.com/in/antoine-lelong-510027199">LinkedIn</a>
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png" height="80" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Next.js/png/Next.js.png" height="80" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/png/Node.js.png" height="80" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Hono/png/Hono.png" height="80" alt="Hono" title="Hono" />
 </p>
 
-## About Me:
+### Styling & Infrastructure
 
-- 💼 **Senior Fullstack & Data Developer** with **5 years of experience** at **Numéricité**.
-- 🏀 **NBA:** Die-hard **San Antonio Spurs** fan (Wemby era is here!).
-- 🚀 **Evolution:** Started as Frontend, evolved to Fullstack, and now integrating Data workflows.
-- 🎮 **Esport:** Huge fan of **T1** on LoL (Faker is the unkillable demon king 🐐) and the **CS** scene.
-- 🛠 **Specialties:** Building robust apps with **React/Next.js** & **Python**, and handling Data Viz with **ELK Stack** & **Metabase**.
-- 👨‍🏫 **Mentorship:** I love helping the team grow through **Peer Programming** and detailed **Code Reviews**.
-- 📚 **Manga:** Big 3 *One Piece, Hunter x Hunter, and Dragon Ball*.
-
-## Skill Set:
-
-<table><tr><td valign="top" width="33%">
-
-### Frontend Core
-<div align="center">  
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs&perline=5" /> 
-</div>
- </td><td valign="top" width="33%">
-        
-### Backend & Data
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,elasticsearch,docker,postgres&perline=5" /> 
-</div>
-
-</td><td valign="top" width="33%">
-  
-### Tools & DevOps
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&perline=5" /> 
-</div>
-</td>
-</tr></table>
-
-## Github Stats:
 <p align="center">
-  <a href="https://github.com/horekk">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=horekk&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=292e42&hide_border=true"/>
-  </a> 
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/png/GitHub.png" height="80" alt="GitHub" title="GitHub" />
 </p>
+
+### Ecosystem & Tooling
+
+<p align="center">
+  <img alt="TanStack" src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="80" />
+  <img alt="Turborepo" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" height="80" />
+  <img alt="oRPC" src="https://orpc.dev/logo.webp" height="80" />
+</p>
+
+---
+
+## Beyond the Code
+
+- 🏀 Die-hard **San Antonio Spurs** fan — Wemby is real and the era has started
+- 🎮 **T1** on League (Faker is the unkillable demon king 🐐) and a close follower of the **CS** competitive scene
+- 📚 Currently waiting for Togashi to finish **Hunter × Hunter**. Patiently. It's fine. I'm fine.
+
+---
+
+<div align="center">
+
+*Open to interesting collabs — feel free to reach out.*
+
+</div>
